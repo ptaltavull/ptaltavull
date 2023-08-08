@@ -3,5 +3,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptaltavull&theme=buefy)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptaltavull&theme=buefy)
 
-![](https://raw.githubusercontent.com/ptaltavull /github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ptaltavull/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ptaltavull/github-stats/master/generated/overview.svg#gh-light-mode-only)
